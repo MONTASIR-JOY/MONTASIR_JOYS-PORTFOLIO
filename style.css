@@ -222,6 +222,8 @@ body {
   display: block;
 }
 
+/* media tag starts here */
+
 @media (max-width: 1000px) {
   #resume {
     margin-bottom: 30px;
